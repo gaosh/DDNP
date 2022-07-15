@@ -1,5 +1,5 @@
 # Disentangled Differentiable Network Pruning
-Pytorch Implementation of Disentangled Differentiable Network Pruning (DDNP)
+Pytorch Implementation of Disentangled Differentiable Network Pruning (ECCV 2022)
 # Requirements
 pytorch==1.7.1  
 torchvision==0.8.2
